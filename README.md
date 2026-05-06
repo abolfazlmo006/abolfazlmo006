@@ -6,8 +6,6 @@
 - 🌱 در حال تقویت مهارت‌هایم در **ASP.NET Core Web API** و **Docker**
 - 👯 به دنبال همکاری روی پروژه‌های متن‌باز مرتبط با **C#** و **بک‌اند**
 - 💬 از من درباره **.NET, Clean Architecture, و REST APIs** بپرسید
-- 📫 چطور با من ارتباط بگیرید: **[moa.138731@gmail.com](mailto:moa.138731@gmail.com)**
-- ⚡ واقعیت جالب: کدزن‌ها عاشق قهوه و حل چالش‌های پیچیده هستند!
 
 ## 🛠️ ابزارها و فناوری‌ها
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
